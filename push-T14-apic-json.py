@@ -3,7 +3,7 @@
 import requests
 import json
 
-user = 'studenT14'
+user = 'student1'
 password = 'lumos123'
 apic = raw_input("Enter the IP address of the APIC: ")
 
